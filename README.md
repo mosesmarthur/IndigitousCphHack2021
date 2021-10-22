@@ -11,7 +11,7 @@ This is a global hackathon organized by Agapeliv partnering with Indigitous glob
 
 The dataset which we are going to solve is from København Kommune about the trees plant around copenhagen in the past year and their Geographical location.
 
-Lets try to crack this data so that we could add more value the town.
+Lets try to crack this data so that we could add more value for the town.
 
 
 
